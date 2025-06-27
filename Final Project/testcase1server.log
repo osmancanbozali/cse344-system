@@ -1,0 +1,493 @@
+2025-05-31 18:36:43 - [INFO] Server logging initialized.
+2025-05-31 18:36:43 - [INFO] Created uploads directory: uploads
+2025-05-31 18:36:43 - [INFO] File transfer system initialized with 5 processor threads
+2025-05-31 18:36:43 - [INFO] Server listening on port 5000...
+2025-05-31 18:36:48 - [DISCONNECT] Client from 127.0.0.1 disconnected before login
+2025-05-31 18:36:48 - [DISCONNECT] user 'unknown' lost connection. Cleaned up resources
+2025-05-31 18:36:48 - [CONNECT] user 'user01' connected
+2025-05-31 18:36:48 - [CONNECT] user 'user02' connected
+2025-05-31 18:36:48 - [CONNECT] user 'user05' connected
+2025-05-31 18:36:48 - [CONNECT] user 'user04' connected
+2025-05-31 18:36:48 - [CONNECT] user 'user11' connected
+2025-05-31 18:36:48 - [CONNECT] user 'user06' connected
+2025-05-31 18:36:48 - [CONNECT] user 'user03' connected
+2025-05-31 18:36:48 - [CONNECT] user 'user07' connected
+2025-05-31 18:36:48 - [CONNECT] user 'user17' connected
+2025-05-31 18:36:48 - [CONNECT] user 'user10' connected
+2025-05-31 18:36:48 - [INFO] user03 joined room 'project1'
+2025-05-31 18:36:48 - [INFO] user10 joined room 'project1'
+2025-05-31 18:36:48 - [INFO] user06 joined room 'project1'
+2025-05-31 18:36:48 - [CONNECT] user 'user19' connected
+2025-05-31 18:36:48 - [CONNECT] user 'user13' connected
+2025-05-31 18:36:48 - [CONNECT] user 'user08' connected
+2025-05-31 18:36:48 - [CONNECT] user 'user18' connected
+2025-05-31 18:36:48 - [INFO] user08 joined room 'project1'
+2025-05-31 18:36:48 - [INFO] user19 joined room 'team5'
+2025-05-31 18:36:48 - [INFO] user13 joined room 'team4'
+2025-05-31 18:36:48 - [INFO] user18 joined room 'team4'
+2025-05-31 18:36:48 - [CONNECT] user 'user12' connected
+2025-05-31 18:36:48 - [CONNECT] user 'user16' connected
+2025-05-31 18:36:48 - [INFO] user11 joined room 'team2'
+2025-05-31 18:36:48 - [INFO] user16 joined room 'team2'
+2025-05-31 18:36:48 - [INFO] user02 joined room 'project1'
+2025-05-31 18:36:48 - [INFO] user05 joined room 'project1'
+2025-05-31 18:36:48 - [CONNECT] user 'user22' connected
+2025-05-31 18:36:48 - [CONNECT] user 'user14' connected
+2025-05-31 18:36:48 - [INFO] user14 joined room 'team5'
+2025-05-31 18:36:48 - [INFO] user22 joined room 'group2'
+2025-05-31 18:36:48 - [CONNECT] user 'user25' connected
+2025-05-31 18:36:48 - [INFO] user17 joined room 'team3'
+2025-05-31 18:36:48 - [CONNECT] user 'user29' connected
+2025-05-31 18:36:48 - [CONNECT] user 'user34' connected
+2025-05-31 18:36:48 - [INFO] user29 joined room 'group3'
+2025-05-31 18:36:48 - [CONNECT] user 'user28' connected
+2025-05-31 18:36:48 - [CONNECT] user 'user33' connected
+2025-05-31 18:36:48 - [INFO] user34 joined room 'testroom1'
+2025-05-31 18:36:48 - [CONNECT] user 'user09' connected
+2025-05-31 18:36:48 - [INFO] user33 joined room 'testroom2'
+2025-05-31 18:36:48 - [CONNECT] user 'user23' connected
+2025-05-31 18:36:48 - [CONNECT] user 'user32' connected
+2025-05-31 18:36:48 - [CONNECT] user 'user20' connected
+2025-05-31 18:36:48 - [INFO] user04 joined room 'project1'
+2025-05-31 18:36:48 - [INFO] user01 joined room 'project1'
+2025-05-31 18:36:48 - [CONNECT] user 'user30' connected
+2025-05-31 18:36:48 - [INFO] user30 joined room 'group1'
+2025-05-31 18:36:48 - [INFO] user23 joined room 'group3'
+2025-05-31 18:36:48 - [INFO] user09 joined room 'project1'
+2025-05-31 18:36:48 - [INFO] user32 joined room 'testroom1'
+2025-05-31 18:36:48 - [CONNECT] user 'user15' connected
+2025-05-31 18:36:48 - [CONNECT] user 'user26' connected
+2025-05-31 18:36:48 - [CONNECT] user 'user35' connected
+2025-05-31 18:36:48 - [CONNECT] user 'user31' connected
+2025-05-31 18:36:48 - [INFO] user26 joined room 'group3'
+2025-05-31 18:36:48 - [INFO] user35 joined room 'testroom2'
+2025-05-31 18:36:48 - [INFO] user07 joined room 'project1'
+2025-05-31 18:36:48 - [CONNECT] user 'user21' connected
+2025-05-31 18:36:48 - [INFO] user15 joined room 'team1'
+2025-05-31 18:36:48 - [INFO] user21 joined room 'group1'
+2025-05-31 18:36:48 - [CONNECT] user 'user24' connected
+2025-05-31 18:36:48 - [INFO] user24 joined room 'group1'
+2025-05-31 18:36:48 - [INFO] user31 joined room 'testroom2'
+2025-05-31 18:36:48 - [INFO] user12 joined room 'team3'
+2025-05-31 18:36:48 - [CONNECT] user 'user27' connected
+2025-05-31 18:36:48 - [INFO] user27 joined room 'group1'
+2025-05-31 18:36:48 - [INFO] user20 joined room 'team1'
+2025-05-31 18:36:48 - [INFO] user28 joined room 'group2'
+2025-05-31 18:36:48 - [INFO] user25 joined room 'group2'
+2025-05-31 18:36:48 - [BROADCAST] user03: Hello from user03 in project1!
+2025-05-31 18:36:48 - [BROADCAST] user02: Hello from user02 in project1!
+2025-05-31 18:36:48 - [BROADCAST] user10: Hello from user10 in project1!
+2025-05-31 18:36:48 - [BROADCAST] user05: Hello from user05 in project1!
+2025-05-31 18:36:48 - [BROADCAST] user08: Hello from user08 in project1!
+2025-05-31 18:36:48 - [BROADCAST] user11: Hello from user11 in team2!
+2025-05-31 18:36:48 - [BROADCAST] user19: Hello from user19 in team5!
+2025-05-31 18:36:48 - [BROADCAST] user06: Hello from user06 in project1!
+2025-05-31 18:36:48 - [BROADCAST] user13: Hello from user13 in team4!
+2025-05-31 18:36:48 - [BROADCAST] user18: Hello from user18 in team4!
+2025-05-31 18:36:48 - [BROADCAST] user16: Hello from user16 in team2!
+2025-05-31 18:36:48 - [BROADCAST] user14: Hello from user14 in team5!
+2025-05-31 18:36:48 - [BROADCAST] user04: Hello from user04 in project1!
+2025-05-31 18:36:48 - [BROADCAST] user01: Hello from user01 in project1!
+2025-05-31 18:36:48 - [BROADCAST] user25: Hello from user25 in group2!
+2025-05-31 18:36:48 - [BROADCAST] user07: Hello from user07 in project1!
+2025-05-31 18:36:48 - [BROADCAST] user22: Hello from user22 in group2!
+2025-05-31 18:36:48 - [BROADCAST] user34: Hello from user34 in testroom1!
+2025-05-31 18:36:48 - [BROADCAST] user09: Hello from user09 in project1!
+2025-05-31 18:36:48 - [BROADCAST] user29: Hello from user29 in group3!
+2025-05-31 18:36:48 - [BROADCAST] user23: Hello from user23 in group3!
+2025-05-31 18:36:48 - [BROADCAST] user33: Hello from user33 in testroom2!
+2025-05-31 18:36:48 - [BROADCAST] user28: Hello from user28 in group2!
+2025-05-31 18:36:48 - [BROADCAST] user32: Hello from user32 in testroom1!
+2025-05-31 18:36:48 - [BROADCAST] user30: Hello from user30 in group1!
+2025-05-31 18:36:48 - [BROADCAST] user35: Hello from user35 in testroom2!
+2025-05-31 18:36:48 - [BROADCAST] user26: Hello from user26 in group3!
+2025-05-31 18:36:48 - [BROADCAST] user20: Hello from user20 in team1!
+2025-05-31 18:36:48 - [BROADCAST] user24: Hello from user24 in group1!
+2025-05-31 18:36:48 - [BROADCAST] user15: Hello from user15 in team1!
+2025-05-31 18:36:48 - [BROADCAST] user27: Hello from user27 in group1!
+2025-05-31 18:36:48 - [BROADCAST] user31: Hello from user31 in testroom2!
+2025-05-31 18:36:48 - [BROADCAST] user21: Hello from user21 in group1!
+2025-05-31 18:36:48 - [BROADCAST] user17: Hello from user17 in team3!
+2025-05-31 18:36:48 - [BROADCAST] user12: Hello from user12 in team3!
+2025-05-31 18:36:48 - [WHISPER] user10 -> user09: Hi there from user10 - primary whisper
+2025-05-31 18:36:48 - [WHISPER] user02 -> user01: Hi there from user02 - primary whisper
+2025-05-31 18:36:48 - [WHISPER] user06 -> user05: Hi there from user06 - primary whisper
+2025-05-31 18:36:48 - [WHISPER] user11 -> user10: Hi there from user11 - primary whisper
+2025-05-31 18:36:48 - [WHISPER] user08 -> user07: Hi there from user08 - primary whisper
+2025-05-31 18:36:48 - [WHISPER] user05 -> user04: Hi there from user05 - primary whisper
+2025-05-31 18:36:48 - [WHISPER] user19 -> user18: Hi there from user19 - primary whisper
+2025-05-31 18:36:48 - [WHISPER] user18 -> user17: Hi there from user18 - primary whisper
+2025-05-31 18:36:48 - [WHISPER] user03 -> user02: Hi there from user03 - primary whisper
+2025-05-31 18:36:48 - [WHISPER] user13 -> user12: Hi there from user13 - primary whisper
+2025-05-31 18:36:48 - [WHISPER] user16 -> user15: Hi there from user16 - primary whisper
+2025-05-31 18:36:48 - [WHISPER] user14 -> user13: Hi there from user14 - primary whisper
+2025-05-31 18:36:48 - [WHISPER] user04 -> user03: Hi there from user04 - primary whisper
+2025-05-31 18:36:48 - [WHISPER] user07 -> user06: Hi there from user07 - primary whisper
+2025-05-31 18:36:48 - [WHISPER] user17 -> user16: Hi there from user17 - primary whisper
+2025-05-31 18:36:48 - [WHISPER] user22 -> user21: Hi there from user22 - primary whisper
+2025-05-31 18:36:48 - [WHISPER] user25 -> user24: Hi there from user25 - primary whisper
+2025-05-31 18:36:48 - [WHISPER] user12 -> user11: Hi there from user12 - primary whisper
+2025-05-31 18:36:48 - [WHISPER] user09 -> user08: Hi there from user09 - primary whisper
+2025-05-31 18:36:48 - [WHISPER] user28 -> user27: Hi there from user28 - primary whisper
+2025-05-31 18:36:48 - [WHISPER] user01 -> user02: Hi there from user01 - primary whisper
+2025-05-31 18:36:48 - [WHISPER] user32 -> user31: Hi there from user32 - primary whisper
+2025-05-31 18:36:48 - [WHISPER] user33 -> user32: Hi there from user33 - primary whisper
+2025-05-31 18:36:48 - [WHISPER] user34 -> user33: Hi there from user34 - primary whisper
+2025-05-31 18:36:48 - [WHISPER] user23 -> user22: Hi there from user23 - primary whisper
+2025-05-31 18:36:48 - [WHISPER] user29 -> user28: Hi there from user29 - primary whisper
+2025-05-31 18:36:48 - [WHISPER] user20 -> user19: Hi there from user20 - primary whisper
+2025-05-31 18:36:48 - [WHISPER] user31 -> user30: Hi there from user31 - primary whisper
+2025-05-31 18:36:48 - [WHISPER] user30 -> user29: Hi there from user30 - primary whisper
+2025-05-31 18:36:48 - [WHISPER] user26 -> user25: Hi there from user26 - primary whisper
+2025-05-31 18:36:48 - [WHISPER] user35 -> user34: Hi there from user35 - primary whisper
+2025-05-31 18:36:48 - [WHISPER] user24 -> user23: Hi there from user24 - primary whisper
+2025-05-31 18:36:48 - [WHISPER] user27 -> user26: Hi there from user27 - primary whisper
+2025-05-31 18:36:48 - [WHISPER] user21 -> user20: Hi there from user21 - primary whisper
+2025-05-31 18:36:48 - [WHISPER] user15 -> user14: Hi there from user15 - primary whisper
+2025-05-31 18:36:48 - [BROADCAST] user11: Starting work in team2
+2025-05-31 18:36:48 - [BROADCAST] user19: Starting work in team5
+2025-05-31 18:36:48 - [BROADCAST] user18: Starting work in team4
+2025-05-31 18:36:48 - [BROADCAST] user13: Starting work in team4
+2025-05-31 18:36:48 - [BROADCAST] user10: Starting work in project1
+2025-05-31 18:36:48 - [BROADCAST] user05: Starting work in project1
+2025-05-31 18:36:48 - [BROADCAST] user03: Starting work in project1
+2025-05-31 18:36:48 - [BROADCAST] user02: Starting work in project1
+2025-05-31 18:36:48 - [BROADCAST] user06: Starting work in project1
+2025-05-31 18:36:48 - [BROADCAST] user08: Starting work in project1
+2025-05-31 18:36:48 - [BROADCAST] user16: Starting work in team2
+2025-05-31 18:36:48 - [BROADCAST] user04: Starting work in project1
+2025-05-31 18:36:48 - [BROADCAST] user12: Starting work in team3
+2025-05-31 18:36:48 - [BROADCAST] user01: Starting work in project1
+2025-05-31 18:36:48 - [BROADCAST] user25: Starting work in group2
+2025-05-31 18:36:48 - [BROADCAST] user22: Starting work in group2
+2025-05-31 18:36:48 - [BROADCAST] user34: Starting work in testroom1
+2025-05-31 18:36:48 - [BROADCAST] user09: Starting work in project1
+2025-05-31 18:36:48 - [BROADCAST] user32: Starting work in testroom1
+2025-05-31 18:36:48 - [BROADCAST] user14: Starting work in team5
+2025-05-31 18:36:48 - [BROADCAST] user27: Starting work in group1
+2025-05-31 18:36:48 - [BROADCAST] user17: Starting work in team3
+2025-05-31 18:36:48 - [BROADCAST] user07: Starting work in project1
+2025-05-31 18:36:48 - [BROADCAST] user33: Starting work in testroom2
+2025-05-31 18:36:48 - [BROADCAST] user26: Starting work in group3
+2025-05-31 18:36:48 - [BROADCAST] user15: Starting work in team1
+2025-05-31 18:36:48 - [BROADCAST] user23: Starting work in group3
+2025-05-31 18:36:48 - [BROADCAST] user28: Starting work in group2
+2025-05-31 18:36:48 - [BROADCAST] user29: Starting work in group3
+2025-05-31 18:36:48 - [BROADCAST] user30: Starting work in group1
+2025-05-31 18:36:48 - [BROADCAST] user31: Starting work in testroom2
+2025-05-31 18:36:48 - [BROADCAST] user20: Starting work in team1
+2025-05-31 18:36:48 - [BROADCAST] user35: Starting work in testroom2
+2025-05-31 18:36:48 - [BROADCAST] user24: Starting work in group1
+2025-05-31 18:36:48 - [BROADCAST] user21: Starting work in group1
+2025-05-31 18:36:48 - [WHISPER] user08 -> user09: This is user08 whispering again!
+2025-05-31 18:36:48 - [WHISPER] user18 -> user19: This is user18 whispering again!
+2025-05-31 18:36:48 - [WHISPER] user06 -> user07: This is user06 whispering again!
+2025-05-31 18:36:48 - [WHISPER] user11 -> user12: This is user11 whispering again!
+2025-05-31 18:36:48 - [WHISPER] user03 -> user04: This is user03 whispering again!
+2025-05-31 18:36:48 - [WHISPER] user13 -> user14: This is user13 whispering again!
+2025-05-31 18:36:48 - [WHISPER] user10 -> user11: This is user10 whispering again!
+2025-05-31 18:36:48 - [WHISPER] user02 -> user03: This is user02 whispering again!
+2025-05-31 18:36:48 - [WHISPER] user19 -> user20: This is user19 whispering again!
+2025-05-31 18:36:48 - [WHISPER] user05 -> user06: This is user05 whispering again!
+2025-05-31 18:36:48 - [WHISPER] user16 -> user17: This is user16 whispering again!
+2025-05-31 18:36:48 - [WHISPER] user22 -> user23: This is user22 whispering again!
+2025-05-31 18:36:48 - [WHISPER] user17 -> user18: This is user17 whispering again!
+2025-05-31 18:36:48 - [WHISPER] user07 -> user08: This is user07 whispering again!
+2025-05-31 18:36:48 - [WHISPER] user04 -> user05: This is user04 whispering again!
+2025-05-31 18:36:48 - [WHISPER] user12 -> user13: This is user12 whispering again!
+2025-05-31 18:36:48 - [WHISPER] user25 -> user26: This is user25 whispering again!
+2025-05-31 18:36:48 - [WHISPER] user14 -> user15: This is user14 whispering again!
+2025-05-31 18:36:48 - [WHISPER] user28 -> user29: This is user28 whispering again!
+2025-05-31 18:36:48 - [WHISPER] user01 -> user02: This is user01 whispering again!
+2025-05-31 18:36:48 - [WHISPER] user32 -> user33: This is user32 whispering again!
+2025-05-31 18:36:48 - [WHISPER] user23 -> user24: This is user23 whispering again!
+2025-05-31 18:36:48 - [WHISPER] user09 -> user10: This is user09 whispering again!
+2025-05-31 18:36:48 - [WHISPER] user26 -> user27: This is user26 whispering again!
+2025-05-31 18:36:48 - [WHISPER] user29 -> user30: This is user29 whispering again!
+2025-05-31 18:36:48 - [WHISPER] user33 -> user34: This is user33 whispering again!
+2025-05-31 18:36:48 - [WHISPER] user35 -> user01: This is user35 whispering again!
+2025-05-31 18:36:48 - [WHISPER] user30 -> user31: This is user30 whispering again!
+2025-05-31 18:36:48 - [WHISPER] user21 -> user22: This is user21 whispering again!
+2025-05-31 18:36:48 - [WHISPER] user31 -> user32: This is user31 whispering again!
+2025-05-31 18:36:48 - [WHISPER] user24 -> user25: This is user24 whispering again!
+2025-05-31 18:36:48 - [WHISPER] user20 -> user21: This is user20 whispering again!
+2025-05-31 18:36:48 - [WHISPER] user34 -> user35: This is user34 whispering again!
+2025-05-31 18:36:48 - [WHISPER] user27 -> user28: This is user27 whispering again!
+2025-05-31 18:36:48 - [WHISPER] user15 -> user16: This is user15 whispering again!
+2025-05-31 18:36:49 - [BROADCAST] user10: Making progress in project1
+2025-05-31 18:36:49 - [BROADCAST] user08: Making progress in project1
+2025-05-31 18:36:49 - [BROADCAST] user11: Making progress in team2
+2025-05-31 18:36:49 - [BROADCAST] user13: Making progress in team4
+2025-05-31 18:36:49 - [BROADCAST] user02: Making progress in project1
+2025-05-31 18:36:49 - [BROADCAST] user06: Making progress in project1
+2025-05-31 18:36:49 - [BROADCAST] user05: Making progress in project1
+2025-05-31 18:36:49 - [BROADCAST] user19: Making progress in team5
+2025-05-31 18:36:49 - [BROADCAST] user03: Making progress in project1
+2025-05-31 18:36:49 - [BROADCAST] user18: Making progress in team4
+2025-05-31 18:36:49 - [BROADCAST] user17: Making progress in team3
+2025-05-31 18:36:49 - [BROADCAST] user04: Making progress in project1
+2025-05-31 18:36:49 - [BROADCAST] user25: Making progress in group2
+2025-05-31 18:36:49 - [BROADCAST] user07: Making progress in project1
+2025-05-31 18:36:49 - [BROADCAST] user22: Making progress in group2
+2025-05-31 18:36:49 - [BROADCAST] user16: Making progress in team2
+2025-05-31 18:36:49 - [BROADCAST] user12: Making progress in team3
+2025-05-31 18:36:49 - [BROADCAST] user14: Making progress in team5
+2025-05-31 18:36:49 - [BROADCAST] user32: Making progress in testroom1
+2025-05-31 18:36:49 - [BROADCAST] user09: Making progress in project1
+2025-05-31 18:36:49 - [BROADCAST] user01: Making progress in project1
+2025-05-31 18:36:49 - [BROADCAST] user26: Making progress in group3
+2025-05-31 18:36:49 - [BROADCAST] user23: Making progress in group3
+2025-05-31 18:36:49 - [BROADCAST] user29: Making progress in group3
+2025-05-31 18:36:49 - [BROADCAST] user30: Making progress in group1
+2025-05-31 18:36:49 - [BROADCAST] user33: Making progress in testroom2
+2025-05-31 18:36:49 - [BROADCAST] user35: Making progress in testroom2
+2025-05-31 18:36:49 - [BROADCAST] user28: Making progress in group2
+2025-05-31 18:36:49 - [BROADCAST] user31: Making progress in testroom2
+2025-05-31 18:36:49 - [BROADCAST] user20: Making progress in team1
+2025-05-31 18:36:49 - [BROADCAST] user24: Making progress in group1
+2025-05-31 18:36:49 - [BROADCAST] user21: Making progress in group1
+2025-05-31 18:36:49 - [BROADCAST] user34: Making progress in testroom1
+2025-05-31 18:36:49 - [BROADCAST] user27: Making progress in group1
+2025-05-31 18:36:49 - [BROADCAST] user15: Making progress in team1
+2025-05-31 18:36:49 - [WHISPER] user10 -> user09: How are you doing?
+2025-05-31 18:36:49 - [WHISPER] user13 -> user12: How are you doing?
+2025-05-31 18:36:49 - [WHISPER] user18 -> user17: How are you doing?
+2025-05-31 18:36:49 - [WHISPER] user05 -> user04: How are you doing?
+2025-05-31 18:36:49 - [WHISPER] user08 -> user07: How are you doing?
+2025-05-31 18:36:49 - [WHISPER] user11 -> user10: How are you doing?
+2025-05-31 18:36:49 - [WHISPER] user19 -> user18: How are you doing?
+2025-05-31 18:36:49 - [WHISPER] user06 -> user05: How are you doing?
+2025-05-31 18:36:49 - [WHISPER] user03 -> user02: How are you doing?
+2025-05-31 18:36:49 - [WHISPER] user02 -> user01: How are you doing?
+2025-05-31 18:36:49 - [WHISPER] user17 -> user16: How are you doing?
+2025-05-31 18:36:49 - [WHISPER] user22 -> user21: How are you doing?
+2025-05-31 18:36:49 - [WHISPER] user12 -> user11: How are you doing?
+2025-05-31 18:36:49 - [WHISPER] user07 -> user06: How are you doing?
+2025-05-31 18:36:49 - [WHISPER] user25 -> user24: How are you doing?
+2025-05-31 18:36:49 - [WHISPER] user16 -> user15: How are you doing?
+2025-05-31 18:36:49 - [WHISPER] user04 -> user03: How are you doing?
+2025-05-31 18:36:49 - [WHISPER] user14 -> user13: How are you doing?
+2025-05-31 18:36:49 - [WHISPER] user09 -> user08: How are you doing?
+2025-05-31 18:36:49 - [WHISPER] user01 -> user02: How are you doing?
+2025-05-31 18:36:49 - [WHISPER] user29 -> user28: How are you doing?
+2025-05-31 18:36:49 - [WHISPER] user24 -> user23: How are you doing?
+2025-05-31 18:36:49 - [WHISPER] user21 -> user20: How are you doing?
+2025-05-31 18:36:49 - [WHISPER] user30 -> user29: How are you doing?
+2025-05-31 18:36:49 - [WHISPER] user32 -> user31: How are you doing?
+2025-05-31 18:36:49 - [WHISPER] user28 -> user27: How are you doing?
+2025-05-31 18:36:49 - [WHISPER] user20 -> user19: How are you doing?
+2025-05-31 18:36:49 - [WHISPER] user23 -> user22: How are you doing?
+2025-05-31 18:36:49 - [WHISPER] user26 -> user25: How are you doing?
+2025-05-31 18:36:49 - [WHISPER] user33 -> user32: How are you doing?
+2025-05-31 18:36:49 - [WHISPER] user35 -> user34: How are you doing?
+2025-05-31 18:36:49 - [WHISPER] user31 -> user30: How are you doing?
+2025-05-31 18:36:49 - [WHISPER] user27 -> user26: How are you doing?
+2025-05-31 18:36:49 - [WHISPER] user15 -> user14: How are you doing?
+2025-05-31 18:36:49 - [WHISPER] user34 -> user33: How are you doing?
+2025-05-31 18:36:49 - [WHISPER] user03 -> user02: Cross-room whisper from user03
+2025-05-31 18:36:49 - [WHISPER] user08 -> user18: Cross-room whisper from user08
+2025-05-31 18:36:49 - [WHISPER] user11 -> user23: Cross-room whisper from user11
+2025-05-31 18:36:49 - [WHISPER] user10 -> user16: Cross-room whisper from user10
+2025-05-31 18:36:49 - [WHISPER] user05 -> user04: Cross-room whisper from user05
+2025-05-31 18:36:49 - [WHISPER] user18 -> user13: Cross-room whisper from user18
+2025-05-31 18:36:49 - [WHISPER] user02 -> user04: Cross-room whisper from user02
+2025-05-31 18:36:49 - [WHISPER] user13 -> user03: Cross-room whisper from user13
+2025-05-31 18:36:49 - [WHISPER] user06 -> user18: Cross-room whisper from user06
+2025-05-31 18:36:49 - [WHISPER] user19 -> user25: Cross-room whisper from user19
+2025-05-31 18:36:49 - [WHISPER] user07 -> user12: Cross-room whisper from user07
+2025-05-31 18:36:49 - [WHISPER] user17 -> user21: Cross-room whisper from user17
+2025-05-31 18:36:49 - [WHISPER] user22 -> user03: Cross-room whisper from user22
+2025-05-31 18:36:49 - [WHISPER] user14 -> user02: Cross-room whisper from user14
+2025-05-31 18:36:49 - [WHISPER] user16 -> user32: Cross-room whisper from user16
+2025-05-31 18:36:49 - [WHISPER] user25 -> user12: Cross-room whisper from user25
+2025-05-31 18:36:49 - [WHISPER] user12 -> user13: Cross-room whisper from user12
+2025-05-31 18:36:49 - [WHISPER] user01 -> user27: Cross-room whisper from user01
+2025-05-31 18:36:49 - [WHISPER] user35 -> user20: Cross-room whisper from user35
+2025-05-31 18:36:49 - [WHISPER] user20 -> user35: Cross-room whisper from user20
+2025-05-31 18:36:49 - [WHISPER] user29 -> user31: Cross-room whisper from user29
+2025-05-31 18:36:49 - [WHISPER] user09 -> user11: Cross-room whisper from user09
+2025-05-31 18:36:49 - [WHISPER] user31 -> user13: Cross-room whisper from user31
+2025-05-31 18:36:49 - [WHISPER] user21 -> user11: Cross-room whisper from user21
+2025-05-31 18:36:49 - [WHISPER] user30 -> user21: Cross-room whisper from user30
+2025-05-31 18:36:49 - [WHISPER] user24 -> user25: Cross-room whisper from user24
+2025-05-31 18:36:49 - [WHISPER] user32 -> user24: Cross-room whisper from user32
+2025-05-31 18:36:49 - [WHISPER] user26 -> user30: Cross-room whisper from user26
+2025-05-31 18:36:49 - [WHISPER] user34 -> user27: Cross-room whisper from user34
+2025-05-31 18:36:49 - [WHISPER] user33 -> user09: Cross-room whisper from user33
+2025-05-31 18:36:49 - [WHISPER] user27 -> user30: Cross-room whisper from user27
+2025-05-31 18:36:49 - [WHISPER] user15 -> user24: Cross-room whisper from user15
+2025-05-31 18:36:49 - [BROADCAST] user13: Almost done with work
+2025-05-31 18:36:49 - [BROADCAST] user02: Almost done with work
+2025-05-31 18:36:49 - [BROADCAST] user06: Almost done with work
+2025-05-31 18:36:49 - [BROADCAST] user19: Almost done with work
+2025-05-31 18:36:49 - [BROADCAST] user08: Almost done with work
+2025-05-31 18:36:49 - [BROADCAST] user11: Almost done with work
+2025-05-31 18:36:49 - [BROADCAST] user18: Almost done with work
+2025-05-31 18:36:49 - [BROADCAST] user10: Almost done with work
+2025-05-31 18:36:49 - [BROADCAST] user03: Almost done with work
+2025-05-31 18:36:49 - [BROADCAST] user05: Almost done with work
+2025-05-31 18:36:49 - [BROADCAST] user17: Almost done with work
+2025-05-31 18:36:49 - [BROADCAST] user07: Almost done with work
+2025-05-31 18:36:49 - [BROADCAST] user22: Almost done with work
+2025-05-31 18:36:49 - [BROADCAST] user04: Almost done with work
+2025-05-31 18:36:49 - [BROADCAST] user25: Almost done with work
+2025-05-31 18:36:49 - [BROADCAST] user12: Almost done with work
+2025-05-31 18:36:49 - [BROADCAST] user14: Almost done with work
+2025-05-31 18:36:49 - [BROADCAST] user16: Almost done with work
+2025-05-31 18:36:49 - [BROADCAST] user32: Almost done with work
+2025-05-31 18:36:49 - [BROADCAST] user31: Almost done with work
+2025-05-31 18:36:49 - [BROADCAST] user35: Almost done with work
+2025-05-31 18:36:49 - [BROADCAST] user28: Almost done with work
+2025-05-31 18:36:49 - [BROADCAST] user09: Almost done with work
+2025-05-31 18:36:49 - [BROADCAST] user21: Almost done with work
+2025-05-31 18:36:49 - [BROADCAST] user01: Almost done with work
+2025-05-31 18:36:49 - [BROADCAST] user29: Almost done with work
+2025-05-31 18:36:49 - [BROADCAST] user20: Almost done with work
+2025-05-31 18:36:49 - [BROADCAST] user24: Almost done with work
+2025-05-31 18:36:49 - [BROADCAST] user30: Almost done with work
+2025-05-31 18:36:49 - [BROADCAST] user34: Almost done with work
+2025-05-31 18:36:49 - [BROADCAST] user33: Almost done with work
+2025-05-31 18:36:49 - [BROADCAST] user26: Almost done with work
+2025-05-31 18:36:49 - [BROADCAST] user23: Almost done with work
+2025-05-31 18:36:49 - [BROADCAST] user27: Almost done with work
+2025-05-31 18:36:49 - [BROADCAST] user15: Almost done with work
+2025-05-31 18:36:49 - [WHISPER] user03 -> user04: Final whisper from user03 before leaving
+2025-05-31 18:36:49 - [WHISPER] user10 -> user11: Final whisper from user10 before leaving
+2025-05-31 18:36:49 - [WHISPER] user02 -> user03: Final whisper from user02 before leaving
+2025-05-31 18:36:49 - [WHISPER] user06 -> user07: Final whisper from user06 before leaving
+2025-05-31 18:36:49 - [WHISPER] user08 -> user09: Final whisper from user08 before leaving
+2025-05-31 18:36:49 - [WHISPER] user19 -> user20: Final whisper from user19 before leaving
+2025-05-31 18:36:49 - [WHISPER] user05 -> user06: Final whisper from user05 before leaving
+2025-05-31 18:36:49 - [WHISPER] user18 -> user19: Final whisper from user18 before leaving
+2025-05-31 18:36:49 - [WHISPER] user13 -> user14: Final whisper from user13 before leaving
+2025-05-31 18:36:49 - [WHISPER] user11 -> user12: Final whisper from user11 before leaving
+2025-05-31 18:36:49 - [WHISPER] user25 -> user26: Final whisper from user25 before leaving
+2025-05-31 18:36:49 - [WHISPER] user17 -> user18: Final whisper from user17 before leaving
+2025-05-31 18:36:49 - [WHISPER] user04 -> user05: Final whisper from user04 before leaving
+2025-05-31 18:36:49 - [WHISPER] user07 -> user08: Final whisper from user07 before leaving
+2025-05-31 18:36:49 - [WHISPER] user12 -> user13: Final whisper from user12 before leaving
+2025-05-31 18:36:49 - [WHISPER] user16 -> user17: Final whisper from user16 before leaving
+2025-05-31 18:36:49 - [WHISPER] user14 -> user15: Final whisper from user14 before leaving
+2025-05-31 18:36:49 - [WHISPER] user22 -> user23: Final whisper from user22 before leaving
+2025-05-31 18:36:49 - [WHISPER] user31 -> user32: Final whisper from user31 before leaving
+2025-05-31 18:36:49 - [WHISPER] user09 -> user10: Final whisper from user09 before leaving
+2025-05-31 18:36:49 - [WHISPER] user35 -> user01: Final whisper from user35 before leaving
+2025-05-31 18:36:49 - [WHISPER] user21 -> user22: Final whisper from user21 before leaving
+2025-05-31 18:36:49 - [WHISPER] user20 -> user21: Final whisper from user20 before leaving
+2025-05-31 18:36:49 - [WHISPER] user28 -> user29: Final whisper from user28 before leaving
+2025-05-31 18:36:49 - [WHISPER] user24 -> user25: Final whisper from user24 before leaving
+2025-05-31 18:36:49 - [WHISPER] user29 -> user30: Final whisper from user29 before leaving
+2025-05-31 18:36:49 - [WHISPER] user26 -> user27: Final whisper from user26 before leaving
+2025-05-31 18:36:49 - [WHISPER] user01 -> user02: Final whisper from user01 before leaving
+2025-05-31 18:36:49 - [WHISPER] user32 -> user33: Final whisper from user32 before leaving
+2025-05-31 18:36:49 - [WHISPER] user30 -> user31: Final whisper from user30 before leaving
+2025-05-31 18:36:49 - [WHISPER] user33 -> user34: Final whisper from user33 before leaving
+2025-05-31 18:36:49 - [WHISPER] user34 -> user35: Final whisper from user34 before leaving
+2025-05-31 18:36:49 - [WHISPER] user23 -> user24: Final whisper from user23 before leaving
+2025-05-31 18:36:49 - [WHISPER] user27 -> user28: Final whisper from user27 before leaving
+2025-05-31 18:36:49 - [WHISPER] user15 -> user16: Final whisper from user15 before leaving
+2025-05-31 18:36:49 - [WHISPER] user03 -> user02: Thanks for the chat!
+2025-05-31 18:36:49 - [WHISPER] user10 -> user09: Thanks for the chat!
+2025-05-31 18:36:49 - [WHISPER] user08 -> user07: Thanks for the chat!
+2025-05-31 18:36:49 - [WHISPER] user06 -> user05: Thanks for the chat!
+2025-05-31 18:36:49 - [WHISPER] user11 -> user10: Thanks for the chat!
+2025-05-31 18:36:49 - [WHISPER] user02 -> user01: Thanks for the chat!
+2025-05-31 18:36:49 - [WHISPER] user19 -> user18: Thanks for the chat!
+2025-05-31 18:36:49 - [WHISPER] user13 -> user12: Thanks for the chat!
+2025-05-31 18:36:49 - [WHISPER] user05 -> user04: Thanks for the chat!
+2025-05-31 18:36:49 - [WHISPER] user18 -> user17: Thanks for the chat!
+2025-05-31 18:36:49 - [WHISPER] user04 -> user03: Thanks for the chat!
+2025-05-31 18:36:49 - [WHISPER] user22 -> user21: Thanks for the chat!
+2025-05-31 18:36:49 - [WHISPER] user14 -> user13: Thanks for the chat!
+2025-05-31 18:36:49 - [WHISPER] user12 -> user11: Thanks for the chat!
+2025-05-31 18:36:49 - [WHISPER] user25 -> user24: Thanks for the chat!
+2025-05-31 18:36:49 - [WHISPER] user17 -> user16: Thanks for the chat!
+2025-05-31 18:36:49 - [WHISPER] user16 -> user15: Thanks for the chat!
+2025-05-31 18:36:49 - [WHISPER] user07 -> user06: Thanks for the chat!
+2025-05-31 18:36:49 - [WHISPER] user32 -> user31: Thanks for the chat!
+2025-05-31 18:36:49 - [WHISPER] user24 -> user23: Thanks for the chat!
+2025-05-31 18:36:49 - [WHISPER] user20 -> user19: Thanks for the chat!
+2025-05-31 18:36:49 - [WHISPER] user31 -> user30: Thanks for the chat!
+2025-05-31 18:36:49 - [WHISPER] user35 -> user34: Thanks for the chat!
+2025-05-31 18:36:49 - [WHISPER] user09 -> user08: Thanks for the chat!
+2025-05-31 18:36:49 - [WHISPER] user29 -> user28: Thanks for the chat!
+2025-05-31 18:36:49 - [WHISPER] user01 -> user02: Thanks for the chat!
+2025-05-31 18:36:49 - [WHISPER] user28 -> user27: Thanks for the chat!
+2025-05-31 18:36:49 - [WHISPER] user21 -> user20: Thanks for the chat!
+2025-05-31 18:36:49 - [WHISPER] user30 -> user29: Thanks for the chat!
+2025-05-31 18:36:49 - [WHISPER] user23 -> user22: Thanks for the chat!
+2025-05-31 18:36:49 - [WHISPER] user27 -> user26: Thanks for the chat!
+2025-05-31 18:36:49 - [WHISPER] user26 -> user25: Thanks for the chat!
+2025-05-31 18:36:49 - [WHISPER] user15 -> user14: Thanks for the chat!
+2025-05-31 18:36:49 - [WHISPER] user33 -> user32: Thanks for the chat!
+2025-05-31 18:36:49 - [WHISPER] user34 -> user33: Thanks for the chat!
+2025-05-31 18:36:49 - [BROADCAST] user18: Signing off from team4 - goodbye!
+2025-05-31 18:36:49 - [BROADCAST] user13: Signing off from team4 - goodbye!
+2025-05-31 18:36:49 - [BROADCAST] user11: Signing off from team2 - goodbye!
+2025-05-31 18:36:49 - [BROADCAST] user03: Signing off from project1 - goodbye!
+2025-05-31 18:36:49 - [BROADCAST] user19: Signing off from team5 - goodbye!
+2025-05-31 18:36:49 - [BROADCAST] user10: Signing off from project1 - goodbye!
+2025-05-31 18:36:49 - [BROADCAST] user06: Signing off from project1 - goodbye!
+2025-05-31 18:36:49 - [BROADCAST] user02: Signing off from project1 - goodbye!
+2025-05-31 18:36:49 - [BROADCAST] user08: Signing off from project1 - goodbye!
+2025-05-31 18:36:49 - [BROADCAST] user05: Signing off from project1 - goodbye!
+2025-05-31 18:36:49 - [BROADCAST] user17: Signing off from team3 - goodbye!
+2025-05-31 18:36:49 - [BROADCAST] user16: Signing off from team2 - goodbye!
+2025-05-31 18:36:49 - [BROADCAST] user07: Signing off from project1 - goodbye!
+2025-05-31 18:36:49 - [BROADCAST] user04: Signing off from project1 - goodbye!
+2025-05-31 18:36:49 - [BROADCAST] user22: Signing off from group2 - goodbye!
+2025-05-31 18:36:49 - [BROADCAST] user12: Signing off from team3 - goodbye!
+2025-05-31 18:36:49 - [BROADCAST] user14: Signing off from team5 - goodbye!
+2025-05-31 18:36:49 - [BROADCAST] user25: Signing off from group2 - goodbye!
+2025-05-31 18:36:49 - [BROADCAST] user35: Signing off from testroom2 - goodbye!
+2025-05-31 18:36:49 - [BROADCAST] user32: Signing off from testroom1 - goodbye!
+2025-05-31 18:36:49 - [BROADCAST] user31: Signing off from testroom2 - goodbye!
+2025-05-31 18:36:49 - [BROADCAST] user21: Signing off from group1 - goodbye!
+2025-05-31 18:36:49 - [BROADCAST] user29: Signing off from group3 - goodbye!
+2025-05-31 18:36:49 - [BROADCAST] user09: Signing off from project1 - goodbye!
+2025-05-31 18:36:49 - [BROADCAST] user28: Signing off from group2 - goodbye!
+2025-05-31 18:36:49 - [BROADCAST] user20: Signing off from team1 - goodbye!
+2025-05-31 18:36:49 - [BROADCAST] user24: Signing off from group1 - goodbye!
+2025-05-31 18:36:49 - [BROADCAST] user23: Signing off from group3 - goodbye!
+2025-05-31 18:36:49 - [BROADCAST] user26: Signing off from group3 - goodbye!
+2025-05-31 18:36:49 - [BROADCAST] user01: Signing off from project1 - goodbye!
+2025-05-31 18:36:49 - [BROADCAST] user30: Signing off from group1 - goodbye!
+2025-05-31 18:36:49 - [BROADCAST] user27: Signing off from group1 - goodbye!
+2025-05-31 18:36:49 - [BROADCAST] user33: Signing off from testroom2 - goodbye!
+2025-05-31 18:36:49 - [BROADCAST] user15: Signing off from team1 - goodbye!
+2025-05-31 18:36:49 - [BROADCAST] user34: Signing off from testroom1 - goodbye!
+2025-05-31 18:36:49 - [DISCONNECT] user 'user03' lost connection. Cleaned up resources
+2025-05-31 18:36:49 - [DISCONNECT] user 'user02' lost connection. Cleaned up resources
+2025-05-31 18:36:49 - [DISCONNECT] user 'user11' lost connection. Cleaned up resources
+2025-05-31 18:36:49 - [DISCONNECT] user 'user10' lost connection. Cleaned up resources
+2025-05-31 18:36:49 - [DISCONNECT] user 'user18' lost connection. Cleaned up resources
+2025-05-31 18:36:49 - [DISCONNECT] user 'user05' lost connection. Cleaned up resources
+2025-05-31 18:36:49 - [DISCONNECT] user 'user13' lost connection. Cleaned up resources
+2025-05-31 18:36:49 - [DISCONNECT] user 'user19' lost connection. Cleaned up resources
+2025-05-31 18:36:49 - [DISCONNECT] user 'user06' lost connection. Cleaned up resources
+2025-05-31 18:36:49 - [DISCONNECT] user 'user08' lost connection. Cleaned up resources
+2025-05-31 18:36:49 - [DISCONNECT] user 'user14' lost connection. Cleaned up resources
+2025-05-31 18:36:49 - [DISCONNECT] user 'user16' lost connection. Cleaned up resources
+2025-05-31 18:36:49 - [DISCONNECT] user 'user12' lost connection. Cleaned up resources
+2025-05-31 18:36:49 - [DISCONNECT] user 'user04' lost connection. Cleaned up resources
+2025-05-31 18:36:49 - [DISCONNECT] user 'user07' lost connection. Cleaned up resources
+2025-05-31 18:36:49 - [DISCONNECT] user 'user09' lost connection. Cleaned up resources
+2025-05-31 18:36:49 - [DISCONNECT] user 'user20' lost connection. Cleaned up resources
+2025-05-31 18:36:49 - [DISCONNECT] user 'user21' lost connection. Cleaned up resources
+2025-05-31 18:36:49 - [DISCONNECT] user 'user01' lost connection. Cleaned up resources
+2025-05-31 18:36:49 - [DISCONNECT] user 'user35' lost connection. Cleaned up resources
+2025-05-31 18:36:49 - [DISCONNECT] user 'user17' lost connection. Cleaned up resources
+2025-05-31 18:36:49 - [DISCONNECT] user 'user22' lost connection. Cleaned up resources
+2025-05-31 18:36:49 - [DISCONNECT] user 'user25' lost connection. Cleaned up resources
+2025-05-31 18:36:49 - [DISCONNECT] user 'user32' lost connection. Cleaned up resources
+2025-05-31 18:36:49 - [DISCONNECT] user 'user30' lost connection. Cleaned up resources
+2025-05-31 18:36:49 - [DISCONNECT] user 'user31' lost connection. Cleaned up resources
+2025-05-31 18:36:49 - [DISCONNECT] user 'user24' lost connection. Cleaned up resources
+2025-05-31 18:36:49 - [DISCONNECT] user 'user23' lost connection. Cleaned up resources
+2025-05-31 18:36:49 - [DISCONNECT] user 'user29' lost connection. Cleaned up resources
+2025-05-31 18:36:49 - [DISCONNECT] user 'user28' lost connection. Cleaned up resources
+2025-05-31 18:36:49 - [DISCONNECT] user 'user26' lost connection. Cleaned up resources
+2025-05-31 18:36:49 - [DISCONNECT] user 'user33' lost connection. Cleaned up resources
+2025-05-31 18:36:49 - [DISCONNECT] user 'user27' lost connection. Cleaned up resources
+2025-05-31 18:36:49 - [DISCONNECT] user 'user34' lost connection. Cleaned up resources
+2025-05-31 18:36:49 - [DISCONNECT] user 'user15' lost connection. Cleaned up resources
