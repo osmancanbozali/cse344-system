@@ -1,0 +1,20 @@
+[2025-05-11 09:00:00] DEBUG: Initializing application components.
+[2025-05-11 09:00:01] DEBUG: Configuration file loaded: /etc/app/config.xml
+[2025-05-11 09:00:05] INFO: Application started successfully.
+[2025-05-11 09:01:00] DEBUG: Received request for /api/users.
+[2025-05-11 09:01:01] DEBUG: Querying database for user list.
+[2025-05-11 09:01:02] ERROR: Cannot establish secure connection to LDAP server.
+[2025-05-11 09:01:03] DEBUG: User list retrieved, 50 users found.
+[2025-05-11 09:01:04] DEBUG: Formatting response for /api/users.
+[2025-05-11 09:01:30] WARN: High memory usage detected: 85%
+[2025-05-11 09:01:35] DEBUG: Attempting to garbage collect.
+[2025-05-11 09:01:36] DEBUG: GC completed, memory usage now 60%.
+[2025-05-11 09:02:00] INFO: User 'jdoe' logged in.
+[2025-05-11 09:02:10] DEBUG: Session token generated for 'jdoe'.
+[2025-05-11 09:02:15] FAIL: Payment processing failed for order #ORD987. Reason: Insufficient funds.
+[2025-05-11 09:02:20] DEBUG: Notifying user 'jdoe' of payment failure.
+[2025-05-11 09:03:00] DEBUG: Shutting down worker thread 3.
+[2025-05-11 09:03:01] 404: Resource not found /api/v2/items/A56
+[2025-05-11 09:03:02] INFO: Scheduled maintenance task started.
+[2025-05-11 09:03:03] DEBUG: Maintenance task: Pruning old logs.
+[2025-05-11 09:03:04] DEBUG: Maintenance task completed.
